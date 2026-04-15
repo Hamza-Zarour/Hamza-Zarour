@@ -38,8 +38,20 @@
 
 ## Core Stack
 
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,angular,ts,js,tailwind,mysql,firebase,python,java,cpp,docker,git,github" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=php,ts,js,python,java,cpp" alt="Language icons" />
+</p>
+
+**Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,angular,tailwind" alt="Framework icons" />
+</p>
+
+**Tools / Testing**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" alt="Tools icons" />
+  <img src="./assets/phpunit-square.svg" alt="PHPUnit icon" width="48" height="48" />
 </p>
 
 ## Featured Work
