@@ -45,21 +45,34 @@
 ## Featured Work
 
 ### QR Menu SaaS
-Multi-tenant restaurant menu platform built as a production-grade product.
+Production-grade multi-tenant restaurant menu platform built end to end.
 
-- Single codebase serving multiple restaurants with tenant isolation
-- Versioned REST API with Sanctum authentication and rate limiting
-- Platform admin dashboard, restaurant owner dashboard, and customer-facing menu experience
-- More than 130 automated tests covering business rules and security-sensitive flows
+- Architected a single platform serving multiple restaurants with strong tenant isolation
+- Built a versioned REST API with Sanctum authentication, rate limiting, and role-based access control
+- Delivered the platform dashboard, restaurant owner panel, and customer-facing menu experience
+- Implemented core business flows for categories, menus, items, variants, and bilingual content
+- Added 130+ automated tests to protect critical business and security logic
 
 **Stack:** Laravel 12, React 19, TypeScript, Tailwind CSS v4, MySQL, Sanctum, Framer Motion
 
-### Technician Hiring Platform
-Full-stack platform with structured user flows and role-based access.
+### MonoPay
+Digital wallet mobile app developed as a team project in 2026.
 
-- Designed the authentication and authorization architecture
-- Implemented RBAC and secure account flows
-- Built the relational schema and RESTful authentication APIs
+- Owned the full transaction layer end to end
+- Built wallet-to-wallet transfers with real-time balance synchronization through Firestore
+- Implemented multi-currency support for a more flexible payment experience
+- Developed QR code-based payments to make transfers faster and easier in mobile scenarios
+- Focused on transaction reliability, responsive state updates, and a smooth in-app payment flow
+
+**Stack:** React Native, Firebase (Firestore, Authentication)
+
+### Technician Hiring Platform
+Full-stack hiring platform with secure role-based flows and structured system design.
+
+- Owned the authentication and authorization architecture
+- Implemented RBAC to support different user roles and permissions
+- Designed the relational database schema and built the RESTful auth APIs
+- Focused on secure user flows, backend clarity, and maintainable application structure
 
 **Stack:** Laravel, Angular, MySQL, Sanctum, Bootstrap
 
