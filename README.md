@@ -67,6 +67,8 @@ Production-grade multi-tenant restaurant menu platform built end to end.
 
 **Stack:** Laravel 12, React 19, TypeScript, Tailwind CSS v4, MySQL, Sanctum, Framer Motion
 
+**Repository:** [qr-menu-platform](https://github.com/Hamza-Zarour/qr-menu-platform)
+
 ### MonoPay
 Digital wallet mobile app developed as a team project in 2026.
 
@@ -78,6 +80,8 @@ Digital wallet mobile app developed as a team project in 2026.
 
 **Stack:** React Native, Firebase (Firestore, Authentication)
 
+**Repository:** [MonoPay](https://github.com/Amr-Saymeh/MonoPay)
+
 ### Technician Hiring Platform
 Full-stack hiring platform with secure role-based flows and structured system design.
 
@@ -87,6 +91,8 @@ Full-stack hiring platform with secure role-based flows and structured system de
 - Focused on secure user flows, backend clarity, and maintainable application structure
 
 **Stack:** Laravel, Angular, MySQL, Sanctum, Bootstrap
+
+**Repositories:** [Frontend](https://github.com/Sara-Qadi/Web2_Technician_Hiring_Platform) · [Backend](https://github.com/Sara-Qadi/BackEnd-Technician-Hiring-Platform)
 
 ## Freelance Experience
 
