@@ -22,6 +22,19 @@
   <img src="https://img.shields.io/badge/Open%20To-Internships%20and%20Freelance-F59E0B?style=flat-square" alt="Open to internships and freelance" />
 </p>
 
+<p align="center">
+  <strong>Resume</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hamza-Zarour/Hamza-Zarour/raw/main/assets/Hamza_Zarour_Resume.pdf">
+    <img src="https://img.shields.io/badge/View-Resume%20PDF-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="View resume badge" />
+  </a>
+  <a href="https://github.com/Hamza-Zarour/Hamza-Zarour/raw/main/assets/Hamza_Zarour_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV badge" />
+  </a>
+</p>
+
 ---
 
 ## About Me
