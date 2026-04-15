@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hamza-Zarour/Hamza-Zarour/raw/main/assets/Hamza_Zarour_Resume.pdf">
-    <img src="https://img.shields.io/badge/View-Resume%20PDF-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="View resume badge" />
+  <a href="https://github.com/Hamza-Zarour/Hamza-Zarour/blob/main/assets/Hamza_Zarour_Resume.pdf">
+    <img src="https://img.shields.io/badge/View-Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="View resume badge" />
   </a>
   <a href="https://github.com/Hamza-Zarour/Hamza-Zarour/raw/main/assets/Hamza_Zarour_Resume.pdf">
     <img src="https://img.shields.io/badge/Download-CV-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV badge" />
