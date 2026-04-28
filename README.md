@@ -86,12 +86,12 @@ Production-grade multi-tenant restaurant menu platform built end to end.
 Digital wallet mobile app developed as a team project in 2026.
 
 - Owned the full transaction layer end to end
-- Built wallet-to-wallet transfers with real-time balance synchronization through Firestore
+- Built wallet-to-wallet transfers with real-time balance synchronization through Firebase (Realtime Database).
 - Implemented multi-currency support for a more flexible payment experience
 - Developed QR code-based payments to make transfers faster and easier in mobile scenarios
 - Focused on transaction reliability, responsive state updates, and a smooth in-app payment flow
 
-**Stack:** React Native, Firebase (Firestore, Authentication)
+**Stack:** React Native, Firebase
 
 **Repository:** [MonoPay](https://github.com/Amr-Saymeh/MonoPay)
 
