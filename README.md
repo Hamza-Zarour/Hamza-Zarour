@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Focus-SaaS%20Architecture-0A66C2?style=flat-square" alt="SaaS Architecture" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Security-111827?style=flat-square" alt="Backend Security" />
   <img src="https://img.shields.io/badge/Focus-Multi--Tenant%20Systems-16A34A?style=flat-square" alt="Multi-tenant Systems" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20and%20Freelance-F59E0B?style=flat-square" alt="Open to internships and freelance" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20and%20Freelance-F59E0B?style=flat-square" alt="Open to freelance" />
 </p>
 
 ---
